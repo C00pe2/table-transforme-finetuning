@@ -18,7 +18,7 @@ Accroding to [issue#108](https://github.com/microsoft/table-transformer/issues/1
 The annotation is stored in json format, not xml. Before fine tune you neet to convert info in json to xml. I upload a python file to support this process.
 ```
 cd scripts
-python process_TabRecSet.py
+python process_tab_rec_set.py
 ```
 
 # Training and Evaluation Data
